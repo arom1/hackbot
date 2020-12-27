@@ -325,5 +325,33 @@ bot.message_loop(handle)
 print '[+] Server is Listenining [+]'
 print '[=] Type Command from Messenger [=]'
 
+
+ccode//////
+
+
+
+conset=> {$}<=delete.command"slaw mamzana"
+if.message==>
+message.delete"everyone"
+messge.delete"here"
+message.delete"gu"
+message.delete"kar"
+
+
+
+
+
+
+
+
+
+
+
+
+prefix: "", 
+
+token: "",
+
+
 while 1:
 		time.sleep(10)
